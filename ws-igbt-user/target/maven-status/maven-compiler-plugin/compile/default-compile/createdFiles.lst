@@ -1,0 +1,4 @@
+org\igtb\App\App.class
+org\igtb\controller\UserOperationsController.class
+org\igtb\model\UserDetails.class
+org\igtb\service\UserService.class
